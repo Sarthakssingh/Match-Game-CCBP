@@ -1,6 +1,6 @@
 In this project, let's build a **Match Game** by applying the concepts we have learned till now.
 
-Demo Video [LINK]([url](https://fruitguessgame.ccbp.tech/))
+Demo Video [[LINK]](https://fruitguessgame.ccbp.tech/)
 
 ### Refer to the video below:
 
